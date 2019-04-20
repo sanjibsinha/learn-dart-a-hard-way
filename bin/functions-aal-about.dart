@@ -8,3 +8,11 @@ int anIntegerReturnTypeFunction(){
 }
 
 String stringReturnTypeFunction(String name, String address) => "This is $name and this is $address";
+
+main(){
+  withoutReturnignValue();
+
+  print(anIntegerReturnTypeFunction());
+
+  print(stringReturnTypeFunction("John", "Jericho Town"));
+}

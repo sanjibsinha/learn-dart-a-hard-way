@@ -9,55 +9,23 @@
 //import 'functions-aal-about.dart';
 //import 'parameter-optional-default.dart';
 //import 'named-parameters.dart';
-
+//import 'inheritance-and-superclass.dart';
+//import 'abstract.dart';
+//import 'interface-dart.dart';
+//import 'static-methods-and-variables.dart';
+//import 'functional-programming-in-dart.dart';
+//import 'colletions-list-fixed-length.dart';
+//import 'collection-list-growable-list.dart';
+//import 'set-and-hashset.dart';
+//import 'map-and-hasmap.dart';
+//import 'callable-class.dart';
 
 
 
 main(List<String> arguments){
-  //print(smallerNumber);
-  //print(smallNumber);
-/*
-  forLoopFunction();
-  print("");
-  whileLoopFunction();
-  print("");
-  doWhileLoop();
-*/
-  //labelsLoop();
-  //loopContinue();
-  //primeNumberTetsing(169);
-  /*
-  var bear = Bear();
-  bear.collarID = 1; // default getter and setter
-  bear.setColor = "Brown"; // custom getter and setter
-  print("The bear with collar ID ${bear.collarID} has color ${bear.getColor}");
-*/
 
-  /*
-  withoutReturnignValue();
 
-  print(anIntegerReturnTypeFunction());
-
-  print(stringReturnTypeFunction("John", "Jericho Town"));
-
-*/
-
-  /*
-  print(defaultParameters("John", "Jericho"));
-
-  print(optionalParameters("John", "Form Chikago"));
-
-  // overriding the default age
-  print(defaultParameters("JOhn", "Jericho", age : 20));
-  */
-
-  /*
-  //sequence does not matter
-  var  result1 = findTheVolume(10, height: 20, bredth: 30);
-  var  result2 = findTheVolume(10, bredth: 30, height: 10);
-  print(result1);
-  print(result2);
-  */
+}
 
   /*
   try{
@@ -83,26 +51,6 @@ main(List<String> arguments){
     print("This is Finally and it always be executed.");
   }
   */
-
-
-
-
-
-
-
-
-
-
-
-
-
-}
-
-
-
-
-
-
 /*
 
 

@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0f83416-2d89-4c05-814d-f07b2dcbc422" name="Default Changelist" comment="" />
+    <list default="true" id="a0f83416-2d89-4c05-814d-f07b2dcbc422" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/functions-aal-about.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/functions-aal-about.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/inheritance-and-superclass.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritance-and-superclass.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/labels-loop.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/labels-loop.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/named-parameters.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/named-parameters.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/only-loop.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/only-loop.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/parameter-optional-default.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/parameter-optional-default.dart" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,40 +27,45 @@
     <session id="2119858693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="21" />
+          <entry key="project.closed" value="27" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.33" value="2" />
           <entry key="project.open.time.34" value="3" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.36" value="2" />
-          <entry key="project.open.time.37" value="7" />
+          <entry key="project.open.time.37" value="10" />
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.41" value="2" />
-          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.42" value="2" />
           <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="23" />
+          <entry key="project.opened" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dart" value="13532" />
+          <entry key="dart" value="20293" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Dart" value="13532" />
+          <entry key="Dart" value="20293" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="dart" value="49" />
+          <entry key="dart" value="87" />
+          <entry key="gitignore" value="1" />
+          <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Dart" value="49" />
+          <entry key="Dart" value="87" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -60,8 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bin/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="64" column="35" lean-forward="true" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
+            <state relative-caret-position="36">
+              <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -75,43 +90,63 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/bin/tostring.dart" />
         <option value="$PROJECT_DIR$/bin/overriding.dart" />
-        <option value="$PROJECT_DIR$/bin/inheritance-and-superclass.dart" />
         <option value="$PROJECT_DIR$/bin/getter-and-setter.dart" />
         <option value="$PROJECT_DIR$/bin/lexical.dart" />
         <option value="$PROJECT_DIR$/bin/file-lexical.dart" />
         <option value="$PROJECT_DIR$/bin/conditional-expression.dart" />
         <option value="$PROJECT_DIR$/bin/forloop.dart" />
-        <option value="$PROJECT_DIR$/bin/only-loop.dart" />
-        <option value="$PROJECT_DIR$/bin/labels-loop.dart" />
         <option value="$PROJECT_DIR$/bin/loop-continue.dart" />
         <option value="$PROJECT_DIR$/bin/prime-number.dart" />
         <option value="$PROJECT_DIR$/bin/all-about-constructor.dart" />
         <option value="$PROJECT_DIR$/bin/get-set-and-go.dart" />
-        <option value="$PROJECT_DIR$/bin/functions-aal-about.dart" />
-        <option value="$PROJECT_DIR$/bin/parameter-optional-default.dart" />
         <option value="$PROJECT_DIR$/bin/named-parameter.dart" />
-        <option value="$PROJECT_DIR$/bin/named-parameters.dart" />
         <option value="$PROJECT_DIR$/bin/exception-handling.dart" />
+        <option value="$PROJECT_DIR$/bin/inheritance-and-superclass.dart" />
+        <option value="$PROJECT_DIR$/bin/named-parameters.dart" />
+        <option value="$PROJECT_DIR$/bin/parameter-optional-default.dart" />
+        <option value="$PROJECT_DIR$/bin/functions-aal-about.dart" />
+        <option value="$PROJECT_DIR$/bin/only-loop.dart" />
+        <option value="$PROJECT_DIR$/bin/abstract-class-and-method.dart" />
+        <option value="$PROJECT_DIR$/bin/abstract.dart" />
+        <option value="$PROJECT_DIR$/bin/interface-dart.dart" />
+        <option value="$PROJECT_DIR$/bin/static-methods-and-variables.dart" />
+        <option value="$PROJECT_DIR$/bin/functional-programming-in-dart.dart" />
+        <option value="$PROJECT_DIR$/bin/labels-loop.dart" />
+        <option value="$PROJECT_DIR$/bin/colletions-list.dart" />
+        <option value="$PROJECT_DIR$/bin/collection-list-growable-list.dart" />
+        <option value="$PROJECT_DIR$/bin/colletions-list-fixed-length.dart" />
+        <option value="$PROJECT_DIR$/bin/set-andhashset.dart" />
+        <option value="$PROJECT_DIR$/bin/set-and-hashset.dart" />
+        <option value="$PROJECT_DIR$/bin/map-and-hasmap.dart" />
+        <option value="$PROJECT_DIR$/bin/callable-class.dart" />
         <option value="$PROJECT_DIR$/bin/main.dart" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="51" />
     <option name="y" value="35" />
     <option name="width" value="1219" />
     <option name="height" value="745" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,8 +168,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -179,7 +212,7 @@
   <component name="ToolWindowManager">
     <frame x="40" y="-20" width="1241" height="821" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15575808" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16570008" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -236,13 +269,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/inheritance-and-superclass.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bin/file-lexical.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -257,24 +283,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/labels-loop.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bin/prime-number.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/all-about-constructor.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -299,48 +311,131 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/only-loop.dart">
+    <entry file="file://$PROJECT_DIR$/bin/named-parameter.dart" />
+    <entry file="file://$PROJECT_DIR$/bin/exception-handling.dart" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/all-about-constructor.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="192">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/functions-aal-about.dart">
+    <entry file="file://$PROJECT_DIR$/bin/inheritance-and-superclass.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="9" column="101" lean-forward="true" selection-start-line="9" selection-start-column="101" selection-end-line="9" selection-end-column="101" />
+        <state relative-caret-position="393">
+          <caret line="47" column="45" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/named-parameters.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bin/parameter-optional-default.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        <state relative-caret-position="204">
+          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/named-parameter.dart">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/named-parameters.dart">
+    <entry file="file://$PROJECT_DIR$/bin/functions-aal-about.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
-          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+        <state relative-caret-position="192">
+          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/exception-handling.dart">
+    <entry file="file://$PROJECT_DIR$/bin/only-loop.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        <state relative-caret-position="384">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/abstract-class-and-method.dart" />
+    <entry file="file://$PROJECT_DIR$/bin/abstract.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/interface-dart.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/static-methods-and-variables.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/functional-programming-in-dart.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="984">
+          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/labels-loop.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/collection-list-growable-list.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/colletions-list-fixed-length.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="50" column="1" lean-forward="true" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/set-and-hashset.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="87" column="5" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/map-and-hasmap.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="53" column="1" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/callable-class.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="22" column="79" selection-start-line="22" selection-start-column="79" selection-end-line="22" selection-end-column="79" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bin/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="64" column="35" lean-forward="true" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
+        <state relative-caret-position="36">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
         </state>
       </provider>
     </entry>

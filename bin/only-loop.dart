@@ -26,3 +26,14 @@ void doWhileLoop (){
   } while(i <= 5);
 
 }
+
+main(){
+  //print(smallerNumber);
+  //print(smallNumber);
+
+  forLoopFunction();
+  print("");
+  whileLoopFunction();
+  print("");
+  doWhileLoop();
+}
