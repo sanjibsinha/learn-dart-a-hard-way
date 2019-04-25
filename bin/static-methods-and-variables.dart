@@ -14,9 +14,11 @@ class Circle{
     print("This is normal function.");
   }
 }
-
+/*
 main(List<String> arguments){
   var circle = Circle();
   circle.aNonStaticFunction();
+  print(Circle.pi);
   Circle.drawACircle();
 }
+*/

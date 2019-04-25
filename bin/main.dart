@@ -19,12 +19,30 @@
 //import 'set-and-hashset.dart';
 //import 'map-and-hasmap.dart';
 //import 'callable-class.dart';
-
-
+//import 'all-about-constructor.dart';
+//import 'lambda-code.dart';
+//import 'higher-order-functions.dart';
+//import 'closures-one.dart';
+//import 'closures-two.dart';
+//import 'dart:collection';
+//import 'callable-class.dart';
+import 'dart:math' as math;
+import 'package:IdeaProjects/PowProject.dart';
+import 'package:IdeaProjects/RelationalOperators.dart' as Relation;
 
 main(List<String> arguments){
 
-
+  print("Prinitng 2 to the power 5 using Dart's built-in 'dart:math' library.");
+  var int = math.pow(2, 5);
+  print(int);
+  print("Now we are going to use another 'pow()' function from our own library.");
+  var anotherPowObject = PowProject();
+  anotherPowObject.MultiplyByAGivenNumber(4, 3);
+  anotherPowObject.pow(2, 12);
+  print("Now we are going to use another library to test the relational operators.");
+  var trueOrFalse = Relation.TrueOrFalse();
+  trueOrFalse.BetweenTrueOrFalse();
+  trueOrFalse.BetweenTrueAndFalse();
 }
 
   /*

@@ -13,13 +13,20 @@ class Animal {
   }
 
   void eat(){
-    print("Animals eat everything depending on whay type it is.");
+    print("Animals eat everything depending on what type it is.");
   }
 }
 
-class Cat extends Animal {
+class Dog {
+  void canRun(){
+    print("I can run.");
+  }
+}
+
+class Cat extends Animal with Dog {
 
   //overriding parent constructor
+  //although constructors are not inherited
   Cat() : super(){
     print("I am child cat class overriding super Animal class.");
   }
@@ -39,11 +46,13 @@ class Cat extends Animal {
   }
 
 }
+/*
 
 main(List<String> arguments){
-  var cat = Cat();
-  cat.name = "Meaow";
-  cat.showName();
-  cat.eat();
-  var anotherCat = Cat.namedCatConstructor();
+  var car = Car();
+  car.carName("Opel");
+  car.steerTheVehicle();
+  car.lessOilConsumption();
+  car.ridingExperience(Engine("Suzuki"));
 }
+*/

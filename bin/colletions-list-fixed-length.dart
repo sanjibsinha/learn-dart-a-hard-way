@@ -1,11 +1,9 @@
 int listFunction(){
 
-  List<int> nameOfTest = List(5);
+  List<int> nameOfTest = List(3);
   nameOfTest[0] = 1;
   nameOfTest[1] = 2;
   nameOfTest[2] = 3;
-  nameOfTest[3] = 4;
-  nameOfTest[4] = 5;
 
   //there are three methods to capture the list
   //1. method

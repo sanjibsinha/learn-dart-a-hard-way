@@ -16,11 +16,12 @@ void mapFunction(){
 
   print("-----------");
 
+  //2. Method
   for(String value in countries.values){
     print("Continents' name: $value");
   }
 
-  //2. method
+  //3. method
   countries.forEach((key, value) => print("Country: $key and Continent: $value"));
 
   //we can update any map very easily

@@ -1,5 +1,4 @@
 //Lambda is an anonymous function
-
 class AboutLambdas{
   //first way of expressing Lambda or anonymous function
   Function addingNumbers = (int a, int b){
@@ -45,6 +44,8 @@ class AboutLambdas{
 
 }
 
+/*
+
 main(List<String> arguments){
   var add = AboutLambdas();
   var addition = add.addingNumbers(5, 10);
@@ -68,6 +69,7 @@ main(List<String> arguments){
   imagePath();
 
 }
+*/
 /*
 15
 32

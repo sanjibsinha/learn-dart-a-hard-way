@@ -25,22 +25,17 @@ void setFunction(){
 
   print("-----------");
 
-  //3. method
-  for(int i = 0; i < moreNumbers.length; i++){
-    print(moreNumbers.lookup(178));
+ for(int element in moreNumbers){
+    if(moreNumbers.lookup(178) == 178){
+      print(moreNumbers);
+      break;
+    }
   }
-
-
-
-  //map or set?
-  var myInteger = {};
-  if(myInteger.isEmpty){
-    print("It is a map that has no key, value pair.");
-  } else print("It is a set that has no key, value pair.");
 
 //set
   var fruitCollection = {'Mango', 'Apple', 'Jack fruit'};
   print(fruitCollection.lookup('Something Else'));
+  //it gives null
 
 //lists
   List fruitCollections = ['Mango', 'Apple', 'Jack fruit'];

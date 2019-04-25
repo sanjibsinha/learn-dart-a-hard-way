@@ -11,16 +11,13 @@ class Bear {
   //second named constructor
   Bear.secondNamedConstructor(this.collarID);
 
-
   void trackingBear() {
     String color; // local variable
-
     print("Tracking the bear with collar ID ${collarID}");
   }
 }
 
 main(List<String> arguments){
-
   // bear1 is reference variable
   // Bear() is object
   var bear1 = Bear(1);

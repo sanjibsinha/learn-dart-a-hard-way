@@ -6,20 +6,36 @@ class Vehicle{
 }
 
 class Engine{
-  void lessOilConsumption(){
-    print("It consumes less oil.");
+
+  //in the interface, but only visible when used publicly
+  final _name;
+
+  //not in the interface, since it is a constructor
+  Engine(this._name);
+
+  String lessOilConsumption(){
+    return "It consumes less oil.";
   }
 }
 
 class Car implements Vehicle, Engine{
+
+  get _name => "";
+
+  void carName(String name) => print("$name");
+
   void steerTheVehicle() {
     print("The car is moving.");
   }
 
-  void lessOilConsumption(){
+  String lessOilConsumption(){
     print("This model of car consumes less oil.");
   }
+
+  void ridingExperience(Engine engine) => print("This car gives good ride, because the engine is ${engine._name}");
 }
+
+/*
 
 main(List<String> arguments){
   var car = Car();
@@ -27,4 +43,4 @@ main(List<String> arguments){
   car.lessOilConsumption();
 
 }
-
+*/
